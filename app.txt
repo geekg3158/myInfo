@@ -1,0 +1,4 @@
+  "AadClientId": "66f40753-750e-490c-9313-5f5e7034aba4",
+  "AadSecret": "bSH8Q~QiQe3ICN0yk7CsQJnU_-0t4gSQ5vVyMamZ",
+  "AadTenantDomain": "benevacanada.onmicrosoft.com",
+  "AadTenantId": "1392f9fc-e4e8-4bcf-bbd9-8051278854f3",
